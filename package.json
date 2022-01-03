@@ -1,0 +1,8 @@
+{
+  "name": "Стажировка Lad24",
+  "version": "1.0.0",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
